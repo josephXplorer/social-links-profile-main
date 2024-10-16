@@ -89,7 +89,8 @@ img {
 
 @media only screen and (min-width: 376px) {
     .container {
-        max-width: 300px;
+        max-width: 400px;
+        padding-inline: 2rem;
     }
 
     main {
