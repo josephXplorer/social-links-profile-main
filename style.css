@@ -1,8 +1,5 @@
 body {
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   
     background-color: hsl(0, 0%, 8%);
 }
 
@@ -95,5 +92,9 @@ img {
 
     main {
         padding: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
